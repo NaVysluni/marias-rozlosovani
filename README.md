@@ -15,6 +15,27 @@ Tato Streamlit aplikace slouží k generování a ověřování rozlosování hr
 
 Aplikace obsahuje předdefinovaná schémata rozlosování pro různé počty hráčů a velikosti skupin.
 
+## Jak používat
+
+1.  **Spuštění aplikace: a)**
+    Ujistěte se, že máte nainstalovaný [Streamlit](https://streamlit.io/) (`pip install streamlit`).
+    Poté spusťte aplikaci z terminálu:
+    ```bash
+    streamlit run rozlosovani.py
+    ```
+    **Spuštění aplikace: b)**
+    Jděte na webovou adresu: https://marias-rozlosovani.streamlit.app/ 
+3.  **Konfigurace turnaje:**
+    * Vyberte počet hráčů z rozbalovacího menu.
+    * Zvolte počet kol, která se budou hrát.
+4.  **Zadání jmen hráčů:**
+    * Do textových polí zadejte jména jednotlivých hráčů.
+    * Aplikace vás upozorní, pokud zadáte duplicitní jméno.
+5.  **Zobrazení a ověření rozlosování:**
+    * Klikněte na tlačítko "Zobraz rozlosování".
+    * Aplikace provede kontrolu duplicit ve skupinách. Pokud jsou nalezeny chyby (např. dva hráči se potkají vícekrát, ačkoli by neměli), zobrazí se chybové zprávy. V opačném případě se zobrazí zpráva o platnosti rozlosování.
+    * Následně se zobrazí rozlosování pro každé kolo s přiřazenými jmény hráčů.
+
 
 ## Licence
 
