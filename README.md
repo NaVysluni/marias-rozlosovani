@@ -10,8 +10,22 @@ Tato Streamlit aplikace slouží k generování a ověřování rozlosování hr
 * **Detekce duplicitních jmen:** Aplikace automaticky upozorní na duplicitní jména hráčů.
 * **Ověření rozlosování:** Kontrola, zda se v rámci zvoleného schématu a počtu kol nevyskytují duplicity, tj. zda se žádní dva hráči nepotkají ve stejné skupině vícekrát (pokud to schéma umožňuje).
 * **Zobrazení rozlosování:** Přehledné zobrazení rozlosování pro jednotlivá kola, včetně jmen hráčů.
-* **Export do Excelu:** Možnost exportovat rozlosování do souboru Excel pro snadnou distribuci a tisk.
 
 ## Podporovaná rozlosování
 
 Aplikace obsahuje předdefinovaná schémata rozlosování pro různé počty hráčů a velikosti skupin.
+
+
+## Licence
+
+Tento software ("Program") je poskytován **pouze pro soukromé, nekomerční použití**. To znamená, že smíte používat tento Program pro své osobní účely bez jakéhokoli komerčního zisku nebo účelu. Jakékoli použití Programu pro komerční účely, prodeje, pronájmy, distribuce za úplatu nebo jakékoli jiné použití, které generuje zisk, je přísně zakázáno bez předchozího písemného souhlasu autora.
+
+Program smíte volně studovat, upravovat a sdílet pouze za předpokladu, že tyto licenční podmínky zůstanou nedotčeny a že jakákoli upravená verze bude rovněž poskytována pouze pro soukromé, nekomerční použití.
+
+---
+
+## Zřeknutí se odpovědnosti
+
+TENTO PROGRAM JE POSKYTOVÁN "TAK JAK JE", BEZ JAKÉKOLI ZÁRUKY, VÝSLOVNÉ NEBO PŘEDPOKLÁDANÉ, VČETNĚ, ALE NEJEN, PŘEDPOKLÁDANÝCH ZÁRUK PRODEJNOSTI, VHODNOSTI PRO KONKRÉTNÍ ÚČEL A NEPORUŠENÍ PRÁV. AUTOR ANI ŽÁDNÝ Z PŘISPĚVATELŮ NENESE V ŽÁDNÉM PŘÍPADĚ ODPOVĚDNOST ZA JAKÉKOLI NÁROKY, ŠKODY NEBO JINOU ODPOVĚDNOST, AŤ UŽ V RÁMCI SMLOUVY, PŘEČINU ČI JINAK, VYPLÝVAJÍCÍ Z NEBO V SOUVISLOSTI S PROGRAMEM NEBO JEHO POUŽITÍM NEBO JINÝMI OBCHODY S PROGRAMEM.
+
+Jste výhradně zodpovědní za veškeré výsledky plynoucí z použití tohoto Programu. Autor nenese žádnou odpovědnost za jakékoli chyby, opomenutí nebo nepřesnosti v rozlosování generovaném Programem, ani za jakékoli důsledky plynoucí z takových chyb. Je vaší odpovědností ověřit správnost a vhodnost generovaného rozlosování pro vaše konkrétní účely.
