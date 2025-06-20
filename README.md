@@ -18,13 +18,13 @@ Aplikace obsahuje předdefinovaná schémata rozlosování pro různé počty hr
 ## Jak používat
 
 1.  **Spuštění aplikace: a)**
-    Ujistěte se, že máte nainstalovaný [Streamlit](https://streamlit.io/) (`pip install streamlit`).
+    * Ujistěte se, že máte nainstalovaný [Streamlit](https://streamlit.io/) (`pip install streamlit`).
     Poté spusťte aplikaci z terminálu:
     ```bash
     streamlit run rozlosovani.py
     ```
     **Spuštění aplikace: b)**
-    Jděte na webovou adresu: https://marias-rozlosovani.streamlit.app/ 
+    * Jděte na webovou adresu: https://marias-rozlosovani.streamlit.app/ 
 3.  **Konfigurace turnaje:**
     * Vyberte počet hráčů z rozbalovacího menu.
     * Zvolte počet kol, která se budou hrát.
